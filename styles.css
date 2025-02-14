@@ -189,6 +189,7 @@ footer {
     }
 
     .profile img {
+        margin-left: 0px;
         width: 100px;
         height: 120px;
     }
