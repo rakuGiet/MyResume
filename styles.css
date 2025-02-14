@@ -172,7 +172,7 @@ footer {
 }
 
 /* Mobile Adjustments */
-@media (max-width: 1250px) {
+@media (max-width: 1000px) {
     section {
         margin: 5px;
         padding: 10px;
@@ -180,7 +180,7 @@ footer {
     }
 
     .profile .info {
-        margin-left: 90px;
+        margin-left: 0px;
         font-size: 13px;
     }
 
