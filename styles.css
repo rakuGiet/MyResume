@@ -176,17 +176,21 @@ footer {
     section {
         margin: 5px;
         padding: 10px;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .profile .info {
         margin-left: 90px;
-        font-size: 20px;
+        font-size: 13px;
+    }
+
+    .profile {
+        /* flex-direction: column; */
     }
 
     .profile img {
-        width: 220px;
-        height: 300px;
+        width: 100px;
+        height: 120px;
     }
 
     .project {
@@ -218,5 +222,10 @@ footer {
 
     nav.active {
         display: block;
+    }
+
+    .image-item img {
+        height: 50px;
+        width: 50px;
     }
 }
