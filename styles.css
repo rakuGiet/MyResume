@@ -180,16 +180,12 @@ footer {
     }
 
     .profile .info {
-        margin-left: 0px;
+        margin: 0px;
         font-size: 13px;
     }
 
-    .profile {
-        /* flex-direction: column; */
-    }
-
     .profile img {
-        margin-left: 0px;
+        margin: 0px;
         width: 100px;
         height: 120px;
     }
