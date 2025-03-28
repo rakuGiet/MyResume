@@ -1,2 +1,2 @@
 # MyResume
-My Resume Website
+This is just a basic website.
